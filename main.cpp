@@ -6,7 +6,9 @@ using namespace std;
 void bubblesort() {
 
 }
+void selection() {
 
+}
 signed main()
 {
     printf("Hello World");
